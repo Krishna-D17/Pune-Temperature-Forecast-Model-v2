@@ -39,16 +39,6 @@ This project addresses that gap through a **comparative ML study** followed by d
 
 ---
 
-## Research Paper
-
-This repository is the implementation of the paper:
-
-> **"Hourly Temperature Prediction for Pune"**  
-> Krishna Nathwani, Nagnath Shelke, Moulik Pednekar, Prajwal Patil, Saurav Dabhade, Shrikant Salve  
-> Department of Computer Science and Engineering, IIIT Pune
-
----
-
 ## Dataset & EDA
 
 The dataset is a high-resolution **hourly meteorological dataset for Pune, India** (`weather_data.csv`), spanning 2009–2022 (~12 years). Input features include:
@@ -390,18 +380,3 @@ This injects the class into `__main__`'s namespace before `joblib.load()` is cal
 | Frontend | HTML/CSS/JS (Jinja2 templates) |
 
 ---
-
-## Authors
-
-| Name | Institute |
-|---|---|
-| Krishna Nathwani | IIIT Pune, CSE |
-| Nagnath Shelke | IIIT Pune, CSE |
-| Moulik Pednekar | IIIT Pune, CSE |
-| Prajwal Patil | IIIT Pune, CSE |
-| Saurav Dabhade | IIIT Pune, CSE |
-| Shrikant Salve | IIIT Pune, CSE |
-
----
-
-*Research conducted at the Department of Computer Science and Engineering, Indian Institute of Information Technology, Pune.*
